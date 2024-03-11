@@ -1,0 +1,1205 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "node_modules/appcenter/.eslintignore",
+      "sha1": "4d9e0cb8c4eb39c646f3f350ea2216b0cee40fbf"
+    },
+    {
+      "path": "node_modules/appcenter/.eslintrc",
+      "sha1": "79585975014373cef73b21efb2c43ed3acba6f1b"
+    },
+    {
+      "path": "node_modules/appcenter/android/build.gradle",
+      "sha1": "f7da58b12ad5bea1a6439f56103d4753c259f572"
+    },
+    {
+      "path": "node_modules/appcenter/android/src/main/AndroidManifest.xml",
+      "sha1": "3302d6a88b6e7988604ea0ccfe1948644aaa99c1"
+    },
+    {
+      "path": "node_modules/appcenter/android/src/main/java/com/microsoft/appcenter/reactnative/appcenter/AppCenterReactNativeModule.java",
+      "sha1": "08eed08ddaedd52e0b2d44c841e3f52633f18336"
+    },
+    {
+      "path": "node_modules/appcenter/android/src/main/java/com/microsoft/appcenter/reactnative/appcenter/AppCenterReactNativePackage.java",
+      "sha1": "d713fe407b6288afa9f570901ae92efdf4b80ac3"
+    },
+    {
+      "path": "node_modules/appcenter/android/src/main/java/com/microsoft/appcenter/reactnative/appcenter/ReactNativeUtils.java",
+      "sha1": "695e73453c914e2e26dfdb311a6bfdd727709fbb"
+    },
+    {
+      "path": "node_modules/appcenter/appcenter-core.podspec",
+      "sha1": "6c232de407012f4a4aa3439b58bf4bcaab7db7de"
+    },
+    {
+      "path": "node_modules/appcenter/appcenter-log.js",
+      "sha1": "05860b0678fcdf27456744dfc88e4f0d6a7599d3"
+    },
+    {
+      "path": "node_modules/appcenter/AppCenter.d.ts",
+      "sha1": "4ce78afe51ec0a38c188f99ab6a9b544c61df1e6"
+    },
+    {
+      "path": "node_modules/appcenter/AppCenter.js",
+      "sha1": "403817a7602dad036a3eb32468524f43725432dc"
+    },
+    {
+      "path": "node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.h",
+      "sha1": "f68fffcde77c298835b973469eda9c3540385c51"
+    },
+    {
+      "path": "node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.m",
+      "sha1": "c28ecc838f3a5cffeb5e8035aac3d25257930f0d"
+    },
+    {
+      "path": "node_modules/appcenter/ios/AppCenterReactNative.xcodeproj/project.pbxproj",
+      "sha1": "1e6a95ccd3af80901c101f95af1ec0e0399fe457"
+    },
+    {
+      "path": "node_modules/appcenter/LICENSE",
+      "sha1": "8221ffaa5c658ff3e99c01f096a037164e97027a"
+    },
+    {
+      "path": "node_modules/appcenter/package.json",
+      "sha1": "dbd4170119fb4280a4eb0b68b03a9fd3f9f7dac3"
+    },
+    {
+      "path": "node_modules/appcenter/react-native.config.js",
+      "sha1": "07c157766801c9c44f8cef9c12977f2f9b9391b0"
+    },
+    {
+      "path": "node_modules/appcenter/README.md",
+      "sha1": "283a8d1adf404ecb49f9490fc363182a9aff4318"
+    },
+    {
+      "path": "node_modules/appcenter/scripts/postlink.js",
+      "sha1": "450b996c3fb27896edbd06cf9cee2eb3ba6905b4"
+    },
+    {
+      "path": "node_modules/appcenter/test/AppCenterMock.js",
+      "sha1": "c021324bf1c7fbbbb0ce6ed00118258ab1f3aa7f"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/Analytics.d.ts",
+      "sha1": "b151c9901e201a87da4ea0393e8e3d8a298297ef"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/Analytics.js",
+      "sha1": "cdc7316029498665521668bf557505e8a08bdfda"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/android/src/main/java/com/microsoft/appcenter/reactnative/analytics/AppCenterReactNativeAnalyticsModule.java",
+      "sha1": "415fa3b5a0a64ed512f55edbc0000a73eda96267"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/android/src/main/java/com/microsoft/appcenter/reactnative/analytics/AppCenterReactNativeAnalyticsPackage.java",
+      "sha1": "891d14a6266ffc33f4793383ee859f724a5a2224"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/appcenter-analytics.podspec",
+      "sha1": "f9de6eca7fdc953eaf5beff73099f84fdeb6762a"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics/AppCenterReactNativeAnalytics.h",
+      "sha1": "5a537c5526bdafefffc7e0fe75d2b4c522132d3a"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics/AppCenterReactNativeAnalytics.m",
+      "sha1": "5000175650a8e2d734016483993a852099c9d519"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/jest/setup.js",
+      "sha1": "92aa9b1ffd1faabbfee37dcff6d5942803367759"
+    },
+    {
+      "path": "node_modules/appcenter-analytics/test/AppCenterAnalyticsMock.js",
+      "sha1": "c49d42748b6d1df36a353b01f2cd632c92ed3c22"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/android/src/main/java/com/microsoft/appcenter/reactnative/crashes/AppCenterReactNativeCrashesListener.java",
+      "sha1": "f25f3323d039943078d0986f8f470f8d178c0168"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/android/src/main/java/com/microsoft/appcenter/reactnative/crashes/AppCenterReactNativeCrashesModule.java",
+      "sha1": "2fd0acc5cc93b44bc92cfcbb480f02160ce552cf"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/android/src/main/java/com/microsoft/appcenter/reactnative/crashes/AppCenterReactNativeCrashesPackage.java",
+      "sha1": "c256d9371c9e0aa4c7e2bc618da904fe922d2bfe"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/android/src/main/java/com/microsoft/appcenter/reactnative/crashes/AppCenterReactNativeCrashesUtils.java",
+      "sha1": "96f030c1906849502b8fb9c728b0d943006ae619"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/android/src/main/java/com/microsoft/appcenter/reactnative/crashes/RNUtils.java",
+      "sha1": "fff301b021070da6f3c9d74c3e42e97dca034e2f"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/appcenter-crashes.podspec",
+      "sha1": "b2a233d15895f2fdd0a6c582053a57c9fa7165f4"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/Crashes.d.ts",
+      "sha1": "525bf5970a73706a8f0005d80002be9cff499d36"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/Crashes.js",
+      "sha1": "0ecc607320c4501da61faf5e82bc4d79921eb014"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashes.h",
+      "sha1": "be43977d5c6162b338e208b5e3df65ea23633bd5"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashes.m",
+      "sha1": "3706bca32becf1cb045213425a0230762084c33b"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesDelegate.h",
+      "sha1": "84dfdafec9c22f50d70d46d5226922aad0316c69"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesDelegate.m",
+      "sha1": "be4504bb2bdb1238fc768108e0f1182239f88ac4"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.h",
+      "sha1": "ca42b779b1e4314257088429a04b45db6d5361d4"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.m",
+      "sha1": "d664a3745ddbbee08ddf43f58aca1d5d80a1560f"
+    },
+    {
+      "path": "node_modules/appcenter-crashes/test/AppCenterCrashesMock.js",
+      "sha1": "632e858747252a43594e7e643c2bf4007e377f1b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/AlertAdapter.js",
+      "sha1": "588b3a90c72f7a6cf427fe55154a10e670d4869a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/proguard-rules.pro",
+      "sha1": "12a1efe91ceeac44f12f900d22332ff42fee8877"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePush.java",
+      "sha1": "470bdf413628354db8b09932adad38f1015fd94a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushBuilder.java",
+      "sha1": "69d759464ce0216e0bccb680fea75bce243d011c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushConstants.java",
+      "sha1": "d07681e34216cc628a387ef95f1706338fcc9f5a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushDialog.java",
+      "sha1": "d8c472e8d393d4574e21093074fc05ae237528f1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushInstallMode.java",
+      "sha1": "2bc35c680ba0f7b9cde8ed581899e688fe6e1331"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushInvalidPublicKeyException.java",
+      "sha1": "48b24a22833c0eae38858d9057873fa3dd5d01eb"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushInvalidUpdateException.java",
+      "sha1": "aecae1d52889c1b57ebdcc94512f02f978b60936"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushMalformedDataException.java",
+      "sha1": "9afacefe93fee4684118ef78342d774278e016c8"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushNativeModule.java",
+      "sha1": "66621475ecb1d12b7415258380c7a891a248bc1b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushNotInitializedException.java",
+      "sha1": "6ac13422eaa55fa4d922e2c8ea1e746b19865376"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushTelemetryManager.java",
+      "sha1": "db496c96b37a193a5f3294f5db31350d1554908a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushUnknownException.java",
+      "sha1": "0fd9d82e961948ee4859fdd82af4f617bebc5d0c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushUpdateManager.java",
+      "sha1": "dfbd844024e8e2dab342811fad6332315d2083e9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushUpdateState.java",
+      "sha1": "cea6fdb984d1a94efc284bf822e3a2eafbbd6d35"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushUpdateUtils.java",
+      "sha1": "830a341870f7fb1e35862f9f247491006c061d51"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/CodePushUtils.java",
+      "sha1": "132143023788823be7fa3afc3fab6e40d4e5f130"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/DownloadProgress.java",
+      "sha1": "3b0f226e43f5e2cf0199ab9eac13f32f6ca9d360"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/DownloadProgressCallback.java",
+      "sha1": "b5e395b158ba439d7ac8b37fbd631506a4578080"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/FileUtils.java",
+      "sha1": "1034305c5deac48702a2f5e35348cae89ab18df6"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/ReactInstanceHolder.java",
+      "sha1": "9c03eb224676dc8f7326959dcff2e9f46c99dee0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/SettingsManager.java",
+      "sha1": "673978b98bbe9f21b68e81e07ae7a023a75a84de"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/app/src/main/java/com/microsoft/codepush/react/TLSSocketFactory.java",
+      "sha1": "6f746cce61de9a2335cfd3661f96916cddaccc50"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/codepush.gradle",
+      "sha1": "64bb20e7f380f170fbe6c94dc83454b648bc2618"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/gradle/wrapper/gradle-wrapper.jar",
+      "sha1": "2bcd32fbb4d9565f841744f393fd2a5b4604ae77"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/gradle/wrapper/gradle-wrapper.properties",
+      "sha1": "a880a30c19bd5213145e69e731e7988016367654"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/gradle.properties",
+      "sha1": "3eb2586700d8eae08f8a830c111a0f1e7c4690dd"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/gradlew",
+      "sha1": "446223e9865a320cb76bdf19073a68c3479a4029"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/gradlew.bat",
+      "sha1": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+    },
+    {
+      "path": "node_modules/react-native-code-push/android/settings.gradle",
+      "sha1": "9377d68ca7259c497789ff95ecaa35082d64054a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/CodePush.js",
+      "sha1": "4cca05681784bd14b7c09b99960586e775fb47db"
+    },
+    {
+      "path": "node_modules/react-native-code-push/CodePush.podspec",
+      "sha1": "c14aadb37d59a8dc5b514f3f35380ebc23e6b640"
+    },
+    {
+      "path": "node_modules/react-native-code-push/CONTRIBUTING.md",
+      "sha1": "89ecf46a2bdb2c0726945f39364ca84449657eae"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/api-android.md",
+      "sha1": "d72a36ff63186ce50a8552841c5759bb75aa5a6d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/api-ios.md",
+      "sha1": "80bae6d41668efcdc79cd09702732d9013c4fe2f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/api-js.md",
+      "sha1": "98ad5eb767e60633b745c7bce026aa185b3ea23d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/multi-deployment-testing-android.md",
+      "sha1": "78c73f57201a758b18572bb277ee864f8068a4ae"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/multi-deployment-testing-ios.md",
+      "sha1": "273ae253e0c88983bf035c8f7ea768c01b425adc"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/setup-android.md",
+      "sha1": "ec514bd38609b86dd0a140c19bbbb1147359f41d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/setup-ios.md",
+      "sha1": "3276c9684d1b907ea44234423b8cb3aaf25ccf4e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/docs/setup-windows.md",
+      "sha1": "ce683989fe61084854c9ba52cc279d3fd085a971"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/Base64/Base64/MF_Base64Additions.h",
+      "sha1": "e41960c97c1b403c4d771af61f21bbef5bacb269"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/Base64/Base64/MF_Base64Additions.m",
+      "sha1": "f9cec8a13b2bbc8e45f572b2b8b8d1ec202d312e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePush.h",
+      "sha1": "9d0144075d5685113f7ba04c2d9438c110e1d0f9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePush.m",
+      "sha1": "88d0ab329b350fa29c4337721a8c9db4027eb9ed"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushConfig.m",
+      "sha1": "67b6ec5391bc7911b60141d07dd61468c5c4ab51"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushDownloadHandler.m",
+      "sha1": "337c0b286b090d3b94bb93d88fd088713e039681"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushErrorUtils.m",
+      "sha1": "94584eb7450ecc8e92e12b815f17155f837f83f2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushPackage.m",
+      "sha1": "2df8683c104f932db30854390b1349683019ade4"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushTelemetryManager.m",
+      "sha1": "18aaeea79cd142ceb0afee7bb6b38d4bc8346305"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushUpdateUtils.m",
+      "sha1": "4a7773252e8867053f536ebf357bb0eb630ecc3a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/CodePushUtils.m",
+      "sha1": "5165262117aeb20081950864cf1abfcbdb263fef"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithm.h",
+      "sha1": "65857137b1032312274fa89efd4f365ee7c930d7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.h",
+      "sha1": "8856ac95b5acccdf9b45fe791f0f10bae095d038"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.m",
+      "sha1": "812d2bf946941a0bea362950d0c3a15e55349ac0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmNone.h",
+      "sha1": "9a2055dee47d6a6ae4256104244916fb3f1279a1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmNone.m",
+      "sha1": "ecb71d342eeda6d06bf18d8fc97371333784b12c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/ESFamily/JWTAlgorithmESBase.h",
+      "sha1": "1c4003932676bf7456e565d79a99cefd80c540ea"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/ESFamily/JWTAlgorithmESBase.m",
+      "sha1": "d911c7f4787e235fb8b0c6aaeccc568ca2311857"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.h",
+      "sha1": "39be1b8d7bb1824af172c7b92d978d73e40c28fa"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.m",
+      "sha1": "62587f77b9a0310dc294a432aa92816c9f207330"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.h",
+      "sha1": "f27d4a182049ab3aa4745d81c6b27ec94e90e80d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.m",
+      "sha1": "5da3f2fdf6f1a6f056258c2b9e7b12c4fcd55536"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.h",
+      "sha1": "817b465756e825310d92bd7973705c30dee9ff79"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.m",
+      "sha1": "cb227aa3a212f6caf3e45a5d85927fda87820da4"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.h",
+      "sha1": "790ec28d88d7ed745ccc928d207cc2a7ffc1f10a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.m",
+      "sha1": "54c27bf60a585b8bf7c462bba3c8f3a1bacf7797"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTRSAlgorithm.h",
+      "sha1": "670b7db88b6e7e62023645da547735386de7f162"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.h",
+      "sha1": "97349ee39952859c7fb41052d10fe56350b31516"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.m",
+      "sha1": "380486b1ee5e061a82bd542d97bc52be996d951f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.h",
+      "sha1": "8d97ed5df0ed51515fcca8d38507fac2bb398094"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.m",
+      "sha1": "1febf22d1fc1cb03077261c34740798ba0463a6b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.h",
+      "sha1": "344c5eeaa2d8b408a5dc393081d577acbc19b383"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.m",
+      "sha1": "847cb98ec58f843967cf7295717ffbafa49a1aaa"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaim.h",
+      "sha1": "708f9cc9b4cb344f484c9220b6ec0f1ca1ab9c87"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaim.m",
+      "sha1": "403050d6179bcd1ee30ac444fda75da6f70246e3"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSet.h",
+      "sha1": "f836f624bfb8283e6e1f812b781b8c7625cbe4eb"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSet.m",
+      "sha1": "66b535870d156aec7093c560dfceeb40bedb698a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetSerializer.h",
+      "sha1": "c83265182ad35630056fa987ce96d8176b478ee0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetSerializer.m",
+      "sha1": "07e1acecd26f08df2b4e87283ce1ada296c7160f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetVerifier.h",
+      "sha1": "d4d56913b3f9100303fc96861db9374e775e6bf2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetVerifier.m",
+      "sha1": "827e18fdd84afa0dacbae38f42a847ed9135699d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+ResultTypes.h",
+      "sha1": "ccadf422798e219bef1b749fb7a45d0f4c673599"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+ResultTypes.m",
+      "sha1": "17237817f094adad5ac43fdaa3ecb455cfb32621"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionOne.h",
+      "sha1": "37a1879b9f3dcb964d7a9042ed811d0d818b5e87"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionOne.m",
+      "sha1": "2dbbe850dc506b59193f4a1318b191e0f3781917"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionThree.h",
+      "sha1": "ecb68bc74b4a7ea3cca59d820aff379926775def"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionThree.m",
+      "sha1": "6af374abc19257a4c66edd43228a893cdf8ace1a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionTwo.h",
+      "sha1": "b08c91fa3d64c58310a278b53596f51371473747"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionTwo.m",
+      "sha1": "5c4772b89f3645a851993ce7afd2b9b2d5049169"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding.h",
+      "sha1": "c83a375e7d4d71b04a9d2ea12865bc358b1ad63a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding.m",
+      "sha1": "f6d5f8073f859db40bd837c36bea4e32af5e8ea5"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/FrameworkSupplement/JWT.h",
+      "sha1": "a8717f222d8687d97742332108d0ac00652ff8c4"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/FrameworkSupplement/Map.modulemap",
+      "sha1": "8789af91c0c9af5de1507de67cc4ed9133b4a2d3"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTBase64Coder.h",
+      "sha1": "0d4d4927e8a02f5c94a540340af5acae9bca83bc"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTBase64Coder.m",
+      "sha1": "a3ba21a7503e13f53586d87339968ea9c9db17a4"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTDeprecations.h",
+      "sha1": "f90ccacfd5555de395022abefdd43e7acc9ae471"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTErrorDescription.h",
+      "sha1": "e9e6e38174c644b8dedc907c199fa9cae808f396"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTErrorDescription.m",
+      "sha1": "cc04a5db45b689f38e790da4fc5669a85030379f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/RCTConvert+CodePushInstallMode.m",
+      "sha1": "5dfbfa9797d253dcae9a286f4f2e0fa37694d56f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/RCTConvert+CodePushUpdateState.m",
+      "sha1": "f64ea5864a0c06792f9b9c4477cfb31f6dac095c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aes.h",
+      "sha1": "557f747fdad6005732f76a41f3531bf26a5477ff"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aescrypt.c",
+      "sha1": "1aa1848081613163b8b49967b6afa53a5e9af348"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aeskey.c",
+      "sha1": "7caead0d86e4a1c29cc2b1e3344b56945d64f21a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aesopt.h",
+      "sha1": "8dad98362a372b5a85809a3a2e0e64c9e8fe4a0e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aestab.c",
+      "sha1": "dc957e54e32278bc8a2cf1029683657a698ff1d1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aestab.h",
+      "sha1": "6a3955334d6283b72ea3e03a18cf42aeb353a765"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/aes_via_ace.h",
+      "sha1": "a643cb6e69a348956478696e74d3b36ce85d523c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/brg_endian.h",
+      "sha1": "3ee83263ff2f3dc4948b79b7144296370c83d555"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/brg_types.h",
+      "sha1": "8b8fd95d17f3d5ee62f78fb4580e75d5336962cf"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/entropy.c",
+      "sha1": "e7fde1a95a258f42c757d7938a6fb234d7223633"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/entropy.h",
+      "sha1": "20f6f2796164340421d9f4335e67adc845b68cd7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/fileenc.c",
+      "sha1": "2f6b50b05385dcca1547fc267ed0aaa4c94186c2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/fileenc.h",
+      "sha1": "851cb014fe125fa88608ecf5297cc33010a44a53"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/hmac.c",
+      "sha1": "1ce2a97317aa57f8e1a52e4dc174363fd2e6c43e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/hmac.h",
+      "sha1": "a67812f17b84dc88836c5029d73d4282ff0aee70"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/prng.c",
+      "sha1": "c5fca36a4ad117a6410ac51d9f5de94a9bb2e53f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/prng.h",
+      "sha1": "d1a37e38fdc6c24ad2ecf880b251a2ad0d966d85"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/pwd2key.c",
+      "sha1": "73ac01b503b3a31304b9bb30797fc0b32abb2d57"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/pwd2key.h",
+      "sha1": "0b7c92f46568d29d93999f5f74ac39dc79aafb2d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/sha1.c",
+      "sha1": "3afba0b94c1f84a4db2bd1731a98f95ae5cf9ee9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/aes/sha1.h",
+      "sha1": "21c0eb821dab0f63bb850e3eedf213a46d0a3d39"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/Common.h",
+      "sha1": "bf601ccc44dfef55dd8307c302350be56a07cf99"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/crypt.h",
+      "sha1": "902ac5afd9e6f727ea015a6df85178f4fba92b16"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/ioapi.c",
+      "sha1": "c332f2dae0bb38cadfcd995c760caf8dba8d7d33"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/ioapi.h",
+      "sha1": "3cfa55a116ba8d88ade7284274754eccdc6ea515"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/mztools.c",
+      "sha1": "1660fbd15edd08fe5bf81c6655120ff875768ad9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/mztools.h",
+      "sha1": "85458c02a1b2b7da6068bf8e98c4f0f66f4834d9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/unzip.c",
+      "sha1": "3dbdcd27940b5b5f162a6af76c7d4f9753f51e6e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/unzip.h",
+      "sha1": "0cf8ef09965f6b0b6878399fa83acdcc45bcd59c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/zip.c",
+      "sha1": "986df2e14e0f5d4fb719514248bf507e52b77677"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/minizip/zip.h",
+      "sha1": "91d659f62fb4270a5a15558c1b66b84d44425f4e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/SSZipArchive.h",
+      "sha1": "3be2f15047c20e7b03871274896225a898e9a606"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush/SSZipArchive/SSZipArchive.m",
+      "sha1": "a9902b9539f0b708d66e64af9049b23ecc150c39"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "sha1": "84243848f54b0c5983e1ed26defb41d262ce1354"
+    },
+    {
+      "path": "node_modules/react-native-code-push/ios/CodePush.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "sha1": "df5fe739b8b3ab69cf1a32a8881c48a1662e0340"
+    },
+    {
+      "path": "node_modules/react-native-code-push/LICENSE.md",
+      "sha1": "dd6d349b4553fa9ba02e6599d8e083478e2ed560"
+    },
+    {
+      "path": "node_modules/react-native-code-push/logging.js",
+      "sha1": "346439a44e07918c841a732fa4fae727b5307922"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/.bin/semver",
+      "sha1": "b86400980e286f2cb4d987a612e39309da14347f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/.bin/semver.cmd",
+      "sha1": "0417b2e953dde16603704c8e3b70874b75124e1b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/.bin/semver.ps1",
+      "sha1": "0fc9a592457db4cfce5c3e08db0d299624b5c9bf"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/lru-cache/index.js",
+      "sha1": "b8b9a8ec246e3ef6fec472a55ab97cd03e0ce0f2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/bin/semver.js",
+      "sha1": "d269b46ed1e48b78714bdcc976dc8c221212f865"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/classes/comparator.js",
+      "sha1": "bbb95e311cc51af3911406848972f6cc50761d8f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/classes/range.js",
+      "sha1": "606223f1c88751af07475de84325041f7f0c4069"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/clean.js",
+      "sha1": "92466e73dbb620c7b0c58b16e8d39a6d0ff22bc5"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/cmp.js",
+      "sha1": "50a23a530aac08f1545e15bf6441bf031282789e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/coerce.js",
+      "sha1": "c64737eb38e2f78a361af16155116dc84c2af368"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/compare-build.js",
+      "sha1": "97ac51143c3f5c2255ba09c0ec0f952a2aecd8d1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/compare-loose.js",
+      "sha1": "1c581d61f0ab057af7fed4ad01c66d0998d1aa03"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/compare.js",
+      "sha1": "33ec903e117ba1fe05cddedb86a9601d94e193a7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/diff.js",
+      "sha1": "a52f6ea79cf0224fda0d44968159b8dc13e36d7c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/eq.js",
+      "sha1": "498639a97e5682386b94c24096f133db4fd163d0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/gt.js",
+      "sha1": "d5e2d5e6294e56ee0a42e92e3a89d8cf294cb833"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/gte.js",
+      "sha1": "b9c50a385c8e3877108a001fb8548b122a155193"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/inc.js",
+      "sha1": "5814d4948ca724f91f2b61213c011bf8034f112f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/lt.js",
+      "sha1": "fad43ee11cd4b18e2fbaf50593ae540f27365a87"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/lte.js",
+      "sha1": "bd1875ed01c16e0bf753352e775cfc3d993cc228"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/major.js",
+      "sha1": "5e2668d635ca6c7bde9bc1b7f763f26674e83c11"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/minor.js",
+      "sha1": "4bc0bc3ec293449f5fea1cbcfe976c8d2a26cce5"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/neq.js",
+      "sha1": "dfa93428b2368cff5aefd91d812bed067cb31ad6"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/parse.js",
+      "sha1": "1bfe17569d11f23f9a539340cee18bba0e3f4f0a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/patch.js",
+      "sha1": "a78ef0c69e82d2a7b1f4f697e620aef6ad1de458"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/prerelease.js",
+      "sha1": "40a72fe55e64efcc0a5c6b859a0378ab030837db"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/rcompare.js",
+      "sha1": "51f8192667aa9e1320e7fe0616b583039e8042c0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/rsort.js",
+      "sha1": "1e99dcf8aa9518558b2a6945302273ac7b8d69bc"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/satisfies.js",
+      "sha1": "47a3e3141433768a2ca6a03841c842d15cf419c2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/sort.js",
+      "sha1": "b7fc2bc365d5f6f9e2ad842441755e7b8b19de5c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/functions/valid.js",
+      "sha1": "edc5b800b8f302ac7ce238a419a02810cdeed8f2"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/internal/constants.js",
+      "sha1": "819a733e61b6014ca6feeb6a570304612afe2b52"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/internal/debug.js",
+      "sha1": "d6166e7a8eda16340619cb02ee09c19a422b8333"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/internal/identifiers.js",
+      "sha1": "510c174c5bfc993023542e3b4f699cd18e2e0559"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/internal/parse-options.js",
+      "sha1": "19a8ad4d2c32f4386402bd9eb235df80c73a8f75"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/internal/re.js",
+      "sha1": "4847405c77f0465eb4baebe1385b155e72b57f6a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/preload.js",
+      "sha1": "14fcbeda941017aca47b9d4a613cd186deb6441d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/range.bnf",
+      "sha1": "5c6f063e0ec60f2d04686f73a12ba5f389988a2b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/gtr.js",
+      "sha1": "4f69fb02e28923fe7126531d80862dc85bf94c19"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/intersects.js",
+      "sha1": "3763224a30a86582b56a4cdf1ebaa97b5038e1c8"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/ltr.js",
+      "sha1": "d4948b6f660390895f8ac0cfe4cad97bc1f15190"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/max-satisfying.js",
+      "sha1": "4dcef246781158eef12758041375d1bce437a383"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/min-satisfying.js",
+      "sha1": "2155aea4b92343159e1b803f878a47297ca9aa66"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/min-version.js",
+      "sha1": "04dab32f676a52ee4c81f440eb1b5d6c7511afa5"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/outside.js",
+      "sha1": "c6f8b84ebd967e5479159e2f876f3ba27530eb97"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/simplify.js",
+      "sha1": "bc651999d477c5698289adcd2ed8773cf7a2da11"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/subset.js",
+      "sha1": "94dce217bb98598dad72f194de19c5e2f3246d7b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/semver/ranges/to-comparators.js",
+      "sha1": "4d609454b2e81450d85be8f56109af8ba6b61b92"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/yallist/iterator.js",
+      "sha1": "357867d11a5f3f9a52d44300e107ef4b8ceb9830"
+    },
+    {
+      "path": "node_modules/react-native-code-push/node_modules/yallist/yallist.js",
+      "sha1": "2b9d967d60fadfc9f15b946dfea21e05b41eb6d3"
+    },
+    {
+      "path": "node_modules/react-native-code-push/package-mixins.js",
+      "sha1": "71d524431e677f34181f48e30cdb11d78c0b3bdd"
+    },
+    {
+      "path": "node_modules/react-native-code-push/request-fetch-adapter.js",
+      "sha1": "fa5f6261d7051575410ba7d3ae7efb7a094aabd8"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/generateBundledResourcesHash.js",
+      "sha1": "f03485e0b38398e3e910051f977acc2be153103a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/getFilesInFolder.js",
+      "sha1": "121fbe36105f67200701743896c53b18c7ccedb3"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/postlink/run.js",
+      "sha1": "b218698e4b25f94b98ee9ca3e4a6240d3f237595"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/postunlink/android/postunlink.js",
+      "sha1": "d3857153ac140f90158fccb86efd9da19c12b259"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/recordFilesBeforeBundleCommand.js",
+      "sha1": "d3b9a70454160fff870177eeb39215d87c68ec88"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/tools/linkToolsAndroid.js",
+      "sha1": "8968282e1160035b9c1fa6bebc1981f73b7dce65"
+    },
+    {
+      "path": "node_modules/react-native-code-push/scripts/tools/linkToolsIos.js",
+      "sha1": "fdea0e448cbb02a5a82130240f9e9c5db4d505b1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/SECURITY.md",
+      "sha1": "d9d2cd1cb70efc83928a06fadc97a0dd132fb4fe"
+    },
+    {
+      "path": "node_modules/react-native-code-push/tsconfig.json",
+      "sha1": "a54753f6e78c03c4a3bbb99ab90fa38197719003"
+    },
+    {
+      "path": "node_modules/react-native-code-push/tslint.json",
+      "sha1": "3cdfaae35513df9a689c64c3d27c3b7b2f41e77b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/typings/react-native-code-push.d.ts",
+      "sha1": "e67125142993f821f6a02c72ce81244e9b585d7a"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePush.def",
+      "sha1": "b9da87590b9e9c3d819bd5743c8581d44d281f63"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePush.vcxproj",
+      "sha1": "3596be5dfb0e5089626abf58799b56ff559aa942"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePush.vcxproj.filters",
+      "sha1": "6080e46c5c012af657b94b342b73189b72f243fe"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushConfig.cpp",
+      "sha1": "b9d0d9b55f8288574670728925e0b42254c746b5"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushConfig.h",
+      "sha1": "b38203a31bc427e5e0288c14b1d1881cdab68a9b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushConfig.idl",
+      "sha1": "7b03a3589185c0fe9a919272c5c363602a298174"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushDownloadHandler.cpp",
+      "sha1": "b09b53212eecad3538f51a2c8303f8a6ccc3cbbf"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushDownloadHandler.h",
+      "sha1": "a599ac71f043322ed7379d44c7669ac51f07aeb7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushNativeModule.cpp",
+      "sha1": "67e9a2186de10643fd1c3600fcf5c8bfd368f60b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushNativeModule.h",
+      "sha1": "e1a8b6d5a9f9fea52a84e7fd70ef0bacfafbcc07"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushPackage.cpp",
+      "sha1": "2b8e33155d9d91e2e9a8089c4e870ea4f0236bb9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushPackage.h",
+      "sha1": "3c2549d1c5917bfc548355ca83f2ce3acd5849a0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushTelemetryManager.cpp",
+      "sha1": "c4b512c1d27bf6765db9e1f577cd6e83bf32a17b"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushTelemetryManager.h",
+      "sha1": "b43654dd32c91499b2f97d53f82d3672fa3832cb"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushUpdateUtils.cpp",
+      "sha1": "37ba54d9662546439d50c3e716e27460cd3ca815"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushUpdateUtils.h",
+      "sha1": "deda73ae5fc9bb4b1cd0a2f1307e40dbbd9e9107"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushUtils.cpp",
+      "sha1": "535bbe8656e32179addfb5ba9ff0b07a11b19ab8"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/CodePushUtils.h",
+      "sha1": "35f11d07e64beba0c21d85170d580106a7076d9f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/FileUtils.cpp",
+      "sha1": "c8baee2d727c7ccaeeaf7c3fa9366313c3472ada"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/FileUtils.h",
+      "sha1": "e3b42b249ef73cf49522ea89fc6759d6d35f4e93"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/miniz/miniz.c",
+      "sha1": "b93f8cab7e049a862fd0d70ec72969d928fed303"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/miniz/miniz.h",
+      "sha1": "1ffce3a0438f42f75a3bad44b549cd098203339e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/miniz/readme.md",
+      "sha1": "dc8f09eba77b87b74c2aefe2bffcddd79e73c7f4"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/packages.config",
+      "sha1": "d1add63e24e5bf89abe580ce3fde98f207f8898e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/pch.cpp",
+      "sha1": "7e25a29ef977104140e7ce056e9a8ee2025a4390"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/pch.h",
+      "sha1": "92d64d5f08be3c3c7cee0dc573c2eb9e30497227"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/PropertySheet.props",
+      "sha1": "eb3522ce466c4413398a61e0fb4bf78113b7b8ff"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/ReactPackageProvider.cpp",
+      "sha1": "92e99358afdc44f5c11aa4c77660a4b1d40599a0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/ReactPackageProvider.h",
+      "sha1": "b5ece9ac5844055040c1418d860222ea0fb975e0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows/CodePush/ReactPackageProvider.idl",
+      "sha1": "a760811263abd1fc4528f8212a3ef16e183ef504"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/CodePush.csproj",
+      "sha1": "f21f43fd32e0af4a417d5f59838732a8415c0861"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/CodePushUtils.cs",
+      "sha1": "e295601dbd9e37e7df0990dfe7578f999d42a39f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/FileUtils.cs",
+      "sha1": "118fc34e98fae5e8621dd9573a96654d668718df"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/Properties/AssemblyInfo.cs",
+      "sha1": "870992cf10157ed1de2aa9250df0d1530733696f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/Properties/CodePush.rd.xml",
+      "sha1": "e84b8226c519e0265cfb7904f5ba72239715b8bd"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/UpdateManager.cs",
+      "sha1": "ccc38fd77c295957fc4f3eb3405572f68c382c1e"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush/UpdateUtils.cs",
+      "sha1": "5b581ac8e4031360c169536394ff9718c5a34a79"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46/Adapters/Http/HttpProgress.cs",
+      "sha1": "3e795dedf7714553de54c2206c127502cb6474cf"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46/Adapters/Storage/ApplicationDataContainer.cs",
+      "sha1": "641460a11e50816d3a923eca2d9f1a871ddec06c"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46/CodePush.Net46.csproj",
+      "sha1": "ae39f413621150dbc771f2cef10ee632e4f6802d"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46.Test/app.config",
+      "sha1": "e8565d3aba244f67286e3e634b931ee9101545c9"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46.Test/ApplicationDataContainerTest.cs",
+      "sha1": "0e18497c9dcd4a6b4f4165ad333d1e5bd80a1cad"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46.Test/CodePush.Net46.Test.csproj",
+      "sha1": "08da554d47709c0ff628556740d0c19985279d98"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Net46.Test/TelemetryManagerTest.cs",
+      "sha1": "02d630a8070cbfc09daf341fd4008e3e8e3b5b35"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/CodePush.Shared.projitems",
+      "sha1": "3dc1bec80efbd309aae47ea19b7a537ae910b3b6"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/CodePush.Shared.shproj",
+      "sha1": "c3e1da40db19fd94332dcf10d8659aa9eeb5c4e0"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/CodePushConstants.cs",
+      "sha1": "b628e95ab83219c07edae9bc5282b9de05344de7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/CodePushNativeModule.cs",
+      "sha1": "259ac6f35906132e3159a07f535ed6f053fcf3b7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/CodePushReactPackage.cs",
+      "sha1": "fb5424404d1ed469942b690f1c92e69f2cc9d59f"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/InstallMode.cs",
+      "sha1": "600a666e14f70f91db63baaeeb3fdb71d13aaeb1"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/MinimumBackgroundListener.cs",
+      "sha1": "2dfd185135c71930bfe574e8e50d0825da19a320"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/SettingsManager.cs",
+      "sha1": "a6f46293f95c6f67c5b915b80e0ad153411abe00"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/TelemetryManager.cs",
+      "sha1": "51a35487165af97e42eedb3b07b1387513c4e3e7"
+    },
+    {
+      "path": "node_modules/react-native-code-push/windows-legacy/CodePush.Shared/UpdateState.cs",
+      "sha1": "27f31c555b321891110a99aef8fc5abf5459865f"
+    }
+  ]
+}
